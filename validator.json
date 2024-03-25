@@ -1,0 +1,222 @@
+[
+    {
+       "address": "0x8Cde40959f23CF6ECAf07B99a98D9A30edfBD4a6",
+       "stake": 1000,
+       "active": true,
+       "validatedBlock": 11229,
+       "commission": 8,
+       "name": "Coinbase Cloud 02",
+       "link": "https://www.coinbase.com/cloud",
+       "descriptionn": "Coinbase Cloud provides secure and reliable blockchain infrastructure and APIs. Stake your crypto to our enterprise-grade validators.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/68d8ed237f31e993a8eac1bca7512a05_360_360.jpg"
+    },
+    {
+       "address": "0x0EB79fC9643B765833A9344d5eBc9dFa84a722F8",
+       "stake": 7623469,
+       "active": true,
+       "validatedBlock": 11249,
+       "commission": 7,
+       "name": "Ledger by Figment",
+       "link": "https://www.ledger.com/staking",
+       "descriptionn": "",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/3c47b62f3d28ecfd821536f69be82905_360_360.jpg"
+    },
+    {
+       "address": "0xd44b8C50644F85785a7Cb20c92d0bE1D53E2C0b9",
+       "stake": 7429315,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 7,
+       "name": "P2P.org",
+       "link": "https://p2p.org",
+       "descriptionn": "Secure non-custodial SOL staking service | Solana seed investors and contributors | Wormhole Hackathon Winners.",
+       "pictureURL": "https://cdn.p2p.org/p2p360_logo.png"
+    },
+    {
+       "address": "0xe2dE32116a46109Bd2a5EffE19cDBd68CF503AeB",
+       "stake": 6626100,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 7,
+       "name": "Everstake",
+       "link": "https://everstake.one",
+       "descriptionn": "Everstake is a staking-as-a-service company from Ukraine. We help institutional investors and regular token holders to profit off their crypto assets. Choose the most promising projects, delegate with Everstake and make 5%-20% annually.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/fa01e6109b3fd4579c4bdd445d75ad05_360_360.jpg"
+    },
+    {
+       "address": "0xc42a1a27c8c7C7a1aB4B4b614ACb831E82C3f858",
+       "stake": 65636845,
+       "active": true,
+       "validatedBlock": 11238,
+       "commission": 7,
+       "name": "Figment",
+       "link": "https://figment.io",
+       "descriptionn": "",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/bd5fb87f241bd78a9c4bceaaa849ca05_360_360.jpg"
+    },
+    {
+       "address": "0x1d8439c3033Def9233D180CC95fa49aa0e94754A",
+       "stake": 6136754,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 8,
+       "name": "Staking Facilities | MEV 🔥",
+       "link": "https://stakingfacilities.com",
+       "descriptionn": "We invest in leading crypto networks & operate secure, performant, and highly available bare-metal infrastructure out of Germany.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/bfe5fc72eaafa5a4444eb048fd88a705_360_360.jpg"
+    },
+    {
+       "address": "0xf438F2c48958025550159ADba17C32f24c8392B7",
+       "stake": 5494208,
+       "active": true,
+       "validatedBlock": 11249,
+       "commission": 4,
+       "name": "Jito1",
+       "link": "https://jito.wtf",
+       "descriptionn": "Jito Labs builds high performance infrastructure for the Solana Blockchain. Stake to our validator to earn your share of MEV!",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/0e22cc59ab1c3fc75b95ce9fb7a9e705_360_360.jpg"
+    },
+    {
+       "address": "0x9b8d214163571eB5F3D171312462f3b35798f990",
+       "stake": 5460104,
+       "active": true,
+       "validatedBlock": 11238,
+       "commission": 8,
+       "name": "Coinbase Cloud",
+       "link": "https://www.coinbase.com/cloud",
+       "descriptionn": "Coinbase Cloud provides secure and reliable blockchain infrastructure and APIs. Stake your crypto to our enterprise-grade validators.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/68d8ed237f31e993a8eac1bca7512a05_360_360.jpg"
+    },
+    {
+       "address": "0xd12BA956876c234b8E0e593CD60f9391eC1C65F1",
+       "stake": 4923995,
+       "active": true,
+       "validatedBlock": 11255,
+       "commission": 5,
+       "name": "Laine ❤️ stakewiz.com",
+       "link": "https://laine.one/solana",
+       "descriptionn": "We are a professional high-performance validator running on decentralized enterprise hardware. Available to answer any questions you have. Join our Discord at https://discord.gg/3JXdTavv6x.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/22db82203d02b0d0dd8dbbca00bb9b05_360_360.jpg"
+    },
+    {
+       "address": "0x2357cEaE7d5950f1193af5938Cee60eA5AcB8Fcf",
+       "stake": 4873931,
+       "active": true,
+       "validatedBlock": 11250,
+       "commission": 4,
+       "name": "Jito2",
+       "link": "https://jito.wtf",
+       "descriptionn": "Jito Labs builds high performance infrastructure for the Solana Blockchain. Stake to our validator to earn your share of MEV!",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/0e22cc59ab1c3fc75b95ce9fb7a9e705_360_360.jpg"
+    },
+    {
+       "address": "0x52FfC757D11782c75FFf473674a292061E90a3c9",
+       "stake": 4670328,
+       "active": true,
+       "validatedBlock": 11244,
+       "commission": 10,
+       "name": "Jump Crypto",
+       "link": "https://jumpcrypto.com",
+       "descriptionn": "",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/96b89282ff7a8a04c91e64b654141105_360_360.jpg"
+    },
+    {
+       "address": "0x8a7648FF2345fe5770E58515D0D53D9644Ea6774",
+       "stake": 4096028,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 3,
+       "name": "Shinobi Systems 🚀 stakeview.app",
+       "link": "https://www.shinobi-systems.com",
+       "descriptionn": "Coinbase Shinobi Systems validator runs on the best hardware in a secure, high reliability data center, which allows us to provide some of the best staking returns of all Solana validators. See https://stakeview.app.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/27bec9fb5281eacab866ed3c79ce0e05_360_360.jpg"
+    },
+    {
+       "address": "0x04Daffc49d72923a5eBE10B3b6935137Bfb26b26",
+       "stake": 3538333,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 100,
+       "name": "Kraken",
+       "link": "https://www.kraken.com/",
+       "descriptionn": "",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/ceb2cf3dec4fcc2c06f4a0b7b8c7b105_360_360.jpg"
+    },
+    {
+       "address": "0x180B206Ee72b906819DA5f535e4B2E31b5306D8C",
+       "stake": 3477025,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 5,
+       "name": "Kiln",
+       "link": "https://kiln.fi",
+       "descriptionn": "Enterprise-grade staking made easy. Stake your treasury directly, or bring staking to your users through our whitelabel product.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/e976400f2c6613037aa555dd11394305_360_360.jpg"
+    },
+    {
+       "address": "0x27cF553dbA9D0587045265a79A5feD730a1Ea59e",
+       "stake": 3365332,
+       "active": true,
+       "validatedBlock": 11247,
+       "commission": 8,
+       "name": "StakeHaus - 0% Fee + MEV",
+       "link": "https://stakehaus.azurewebsites.net/",
+       "descriptionn": "StakeHaus is a staking-as-a-service company with over 20 years of enterprise software experience focusing only on Solana. We offer the top 1% of validator returns with the mission of being the Haus for all your Solana staking needs.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/4d930e23583c4a81ff3da8c32f2ad105_360_360.jpg"
+    },
+    {
+       "address": "0x878FcE1851b61B377A720677c42d2F5009A7e826",
+       "stake": 3113257,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 10,
+       "name": "SOL Community",
+       "link": "",
+       "descriptionn": "Coinbase Cloud provides secure and reliable blockchain infrastructure and APIs. Stake your crypto to our enterprise-grade validators.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/31d05ed996dd70d0e1849661b23d3905_360_360.jpg"
+    },
+    {
+       "address": "0xa6Df18cA9b8d06eA5Bf53Fd00c4D6224dc43F23d",
+       "stake": 3032411,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 6,
+       "name": "Solflare",
+       "link": "https://solflare.com",
+       "descriptionn": "Earn more SOL by staking with Solflare, the first Solana wallet and the most trusted staking solution. Join the Solana community which has staked more than 20% of all SOL through Solflare and do your part in securing the network. Thank you!",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/696c1dde0afb16b0848da6aa8851e605_360_360.jpg"
+    },
+    {
+       "address": "0xe0B947d5D697383560b0022Acb5a8fb9dd0f757E",
+       "stake": 2671925,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 0,
+       "name": "AG 🔥 0% +MEV 2021-…",
+       "link": "https://validator.ag",
+       "descriptionn": "Better voting % + 0% fee + MEV enabled = higher returns for your staked SOL",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/2a3ae6410a0bd2e6a5eb6753531a4905_360_360.jpg"
+    },
+    {
+       "address": "0xf6FABe0EE9e9502606001e190A0E8Fa5a2E931ec",
+       "stake": 2122337,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 5,
+       "name": "Block Logic +MEV +Triton",
+       "link": "https://www.blocklogic.net",
+       "descriptionn": "Get more SOL with 3 revenue streams! Solana staking + Jito MEV + Triton One PTC rev share (after KYC). Creator of https://www.validators.app. Experienced validator located in Boulder, CO.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/3af995d21a8fe4cec4d6e83104f87205_360_360.jpg"
+    },
+    {
+       "address": "0x78b0d16e5e0400Ba8abC302221a5209829D539b9",
+       "stake": 12969944,
+       "active": false,
+       "validatedBlock": 0,
+       "commission": 100,
+       "name": "Upbit Staking",
+       "link": "https://upbit.com/staking",
+       "descriptionn": "The Most Trusted Digital-Asset Exchange",
+       "pictureURL": "https://staking-static.upbit.com/staking/upbit.png"
+    }
+ ]
